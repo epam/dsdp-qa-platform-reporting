@@ -1,0 +1,6 @@
+<aspectj>
+    <aspects>
+        <aspect name="com.epam.reportportal.aspect.StepAspect"/>
+        <aspect name="platform.qa.reporting.aspects.AllureUIStepAspect"/>
+    </aspects>
+</aspectj>

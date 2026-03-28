@@ -1,0 +1,2 @@
+com.epam.reportportal.junit5.ReportPortalExtension
+platform.qa.reporting.ReportPortalConfigurationExtension
