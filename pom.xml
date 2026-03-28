@@ -22,7 +22,7 @@
         <logger-java-rp.version>5.2.0</logger-java-rp.version>
         <logger-java-rest-assured.version>5.2.0</logger-java-rest-assured.version>
         <allure.version>2.30.0</allure.version>
-        <jackson.version>2.13.1</jackson.version>
+        <jackson.version>2.13.4.2</jackson.version>
         <rxjava.version>2.2.21</rxjava.version>
         <guava.version>31.1-jre</guava.version>
         <log4j.version>2.25.1</log4j.version>
